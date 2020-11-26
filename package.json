@@ -1,0 +1,24 @@
+{
+  "name": "@nicolasdanelon/react-toggle",
+  "version": "1.0.0",
+  "description": "Simple toggle with dark theme support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasdanelon/react-toggle.git"
+  },
+  "keywords": [
+    "react",
+    "toggle",
+    "webcomponent"
+  ],
+  "author": "Nicolas Danelon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasdanelon/react-toggle/issues"
+  },
+  "homepage": "https://github.com/nicolasdanelon/react-toggle#readme"
+}
