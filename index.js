@@ -1,5 +1,5 @@
-if (process.env.NODE_ENV === 'roduction') {
-  module.exports = require('./dist/react-switch.min.js');
+if (process.env.NODE_ENV === 'production') {
+  module.exports = require('./dist/index.min.js');
 } else {
-  module.exports = require('./dist/react-switch.dev.js');
+  module.exports = require('./dist/index.js');
 }
