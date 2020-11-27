@@ -1,11 +1,12 @@
 {
   "name": "@nicolasdanelon/react-toggle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple toggle with dark theme support",
   "main": "index.js",
   "scripts": {
     "test": "jest test",
     "build": "rollup -c",
+    "deploy": "npm publish --access public",
     "coverage": "jest --coverage"
   },
   "repository": {
