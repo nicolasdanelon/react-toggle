@@ -1,6 +1,6 @@
 {
   "name": "@nicolasdanelon/react-toggle",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Simple toggle with dark theme support",
   "main": "index.js",
   "scripts": {

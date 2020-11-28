@@ -5,6 +5,6 @@ import Toggle from './index';
 
 test('renders greeting text', () => {
   render(<Toggle />);
-  const theDiv = screen.getByText(/hi!/i);
+  const theDiv = screen.getByText(/hello there!/i);
   expect(theDiv).toBeInTheDocument();
 });
